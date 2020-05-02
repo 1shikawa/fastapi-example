@@ -1,6 +1,6 @@
 # fastapi-example
 Python3.7\
-fastapi\
+FastAPI\
 uvicorn\
-mysql\
+MySQL\
 SQLAlchemy
