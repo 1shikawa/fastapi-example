@@ -4,5 +4,5 @@ databases[mysql]
 mysqlclient
 fastapi==0.48.0
 SQLAlchemy==1.3.13
-uvicorn==0.11.2
+uvicorn==0.11.7
 httpx==0.11.1
